@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{df0e781b-10ae-4a25-9bdf-c4fd7d492ef4}">
+		<property name="assetPath">
+			<value>Glass/GlassClinks-06.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.18591666666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{63129eae-a3ba-4e4f-abd3-2575e880171a}</destination>
+		</relationship>
+	</object>
+</objects>

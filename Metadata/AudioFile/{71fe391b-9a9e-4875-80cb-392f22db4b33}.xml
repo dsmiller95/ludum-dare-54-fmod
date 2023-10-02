@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{71fe391b-9a9e-4875-80cb-392f22db4b33}">
+		<property name="assetPath">
+			<value>Hits/ZOOM0030-10.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.49112499999999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{63129eae-a3ba-4e4f-abd3-2575e880171a}</destination>
+		</relationship>
+	</object>
+</objects>
